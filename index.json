@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "builderlab-cli",
+  "versions": [
+    {
+      "commit": "78f9ea0044f7265b5e72aacd822215f6621fad7b",
+      "tag": "main",
+      "parsed_at": "2026-10-01T07:15:55.455202+00:00"
+    }
+  ]
+}
